@@ -1,0 +1,13 @@
+node_modules
+yarn-error.log
+
+#Hardhat files
+cache
+artifacts
+typechain
+
+#Secret key
+.secret.ts
+
+#Test
+scripts
